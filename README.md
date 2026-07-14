@@ -19,8 +19,8 @@
 
 ## About Me
 
-I am **ANNAPAREDDY SESHI REDDY**, a web development learner who enjoys turning simple ideas into working web pages. I am building my frontend foundation with **HTML, CSS, JavaScript, GitHub, and GitHub Pages**.
-
+**I am ANNAPAREDDY SESHI REDDY, a Security Analyst passionate about cybersecurity and cloud security. I have hands-on experience with Microsoft Sentinel, Microsoft Defender XDR, Azure Security, Threat Hunting, Vulnerability Management, and Incident Response, and I continuously improve my skills through practical projects and enterprise security operations.
+**
 My focus is to improve through real projects, clean design, and consistent practice.
 
 <table>
