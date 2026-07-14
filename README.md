@@ -1,17 +1,15 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:22c55e&text=ANNAPAREDDY%20SESHI%20REDDY&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Web%20Development%20Learner%20%7C%20GitHub%20Pages%20Builder&descAlignY=58&descSize=16" alt="Profile banner" />
+# ANNAPAREDDY SESHI REDDY
 
-  <img src="https://komarev.com/ghpvc/?username=SESHI052&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SESHI052?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/SESHI052?label=Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
+### Security Analyst | SOC Operations | Cloud Security | Threat Hunting | Incident Response
 
-  <br />
-  <br />
+I focus on protecting enterprise environments through security monitoring, threat detection, cloud security, identity protection, vulnerability management, and incident response.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+SESHI;Learning+HTML%2C+CSS+and+JavaScript;Building+projects+with+GitHub+Pages;Improving+one+project+at+a+time" alt="Typing SVG" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-seshireddy.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seshireddy.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annapareddy-seshi-reddy-269b79266)
+[![GitHub](https://img.shields.io/badge/GitHub-SESHI052-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SESHI052)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annapareddyseshi052@gmail.com)
 
 </div>
 
@@ -19,81 +17,91 @@
 
 ## About Me
 
-**I am ANNAPAREDDY SESHI REDDY, a Security Analyst passionate about cybersecurity and cloud security. I have hands-on experience with Microsoft Sentinel, Microsoft Defender XDR, Azure Security, Threat Hunting, Vulnerability Management, and Incident Response, and I continuously improve my skills through practical projects and enterprise security operations.
-**
-My focus is to improve through real projects, clean design, and consistent practice.
+I am **ANNAPAREDDY SESHI REDDY**, a Security Analyst with hands-on experience in **Security Operations (SOC), Microsoft Sentinel, Microsoft Defender XDR, Azure Security, Microsoft Entra ID, Microsoft Intune, Vulnerability Management, Threat Hunting, and Incident Response**.
 
-<table>
-  <tr>
-    <td><strong>Current Focus</strong></td>
-    <td>Frontend basics, responsive layouts, and GitHub Pages projects</td>
-  </tr>
-  <tr>
-    <td><strong>Learning</strong></td>
-    <td>JavaScript fundamentals, UI design, and better project structure</td>
-  </tr>
-  <tr>
-    <td><strong>Goal</strong></td>
-    <td>Build useful beginner-friendly projects and grow into a strong web developer</td>
-  </tr>
-  <tr>
-    <td><strong>Portfolio</strong></td>
-    <td><a href="https://seshi052.github.io">seshi052.github.io</a></td>
-  </tr>
-</table>
+I enjoy investigating alerts, analyzing logs, writing KQL queries, improving cloud security posture, documenting findings, and building practical cybersecurity projects that reflect real-world blue-team workflows.
+
+My goal is to grow as a cybersecurity professional by building strong practical skills in SOC operations, cloud security, identity security, VAPT, reporting, and enterprise defense.
 
 ---
 
-## Tech Stack
+## Cybersecurity Focus Areas
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skill icons" />
-
-</div>
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+| Focus Area | Practical Work |
+|---|---|
+| SOC Monitoring | Alert triage, incident review, log analysis, escalation, and security monitoring workflows |
+| Microsoft Sentinel | KQL queries, analytics rules, incident investigation, dashboards, and SIEM monitoring |
+| Microsoft Defender XDR | Endpoint alerts, investigation timelines, device risk review, and response actions |
+| Azure Security | RBAC, Defender for Cloud, secure configuration, monitoring, and cloud security posture |
+| Identity Security | Entra ID, MFA, Conditional Access, sign-in logs, least privilege, and access review |
+| Vulnerability Management | Nmap, Nessus, Qualys, CVE review, risk prioritization, remediation, and retesting |
+| Threat Hunting | Suspicious behavior analysis, MITRE ATT&CK mapping, KQL hunting, and evidence collection |
+| Incident Response | Investigation notes, containment steps, root cause analysis, reporting, and closure |
 
 ---
 
-## Featured Projects
+## Security Tools & Technologies
+
+### SIEM, XDR, and Cloud
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Security Operations
+
+![KQL](https://img.shields.io/badge/KQL-Query%20Language-2F74C0?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-111827?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-991B1B?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E11D48?style=for-the-badge)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-7C3AED?style=for-the-badge)
+
+### VAPT and Administration
+
+![Nmap](https://img.shields.io/badge/Nmap-004575?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00A5B5?style=for-the-badge)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0F766E?style=for-the-badge)
+
+---
+
+## Featured Cybersecurity Projects
 
 | Project | What It Shows | Link |
-| --- | --- | --- |
-| Personal Portfolio | My GitHub Pages website and public web presence | [Open Website](https://seshi052.github.io) |
-| Pizza Web Page | HTML project practice and page-building basics | [View Code](https://github.com/SESHI052/SESHI052/blob/main/pizza.html) |
-| GitHub Profile README | A professional profile built with badges, stats, and project highlights | [View Repository](https://github.com/SESHI052/SESHI052) |
+|---|---|---|
+| Microsoft Sentinel Monitoring | SIEM monitoring, KQL queries, alert review, and incident investigation | [Portfolio](https://seshireddy.in/experience.html) |
+| Azure Security Administration | Azure, Entra ID, Intune, Defender XDR, and cloud security management | [Portfolio](https://seshireddy.in/experience.html) |
+| Vulnerability Management | Nmap, Nessus, Qualys, CVE review, patch tracking, and remediation workflow | [Portfolio](https://seshireddy.in/experience.html) |
+| Security Analyst Portfolio | My public cybersecurity portfolio and professional profile | [Open Website](https://seshireddy.in) |
+| GitHub Profile README | A cybersecurity-focused GitHub profile with skills, tools, and projects | [View Repo](https://github.com/SESHI052/SESHI052) |
 
 ---
 
 ## What I Am Working On
 
-- Improving my portfolio website with better layout and responsive design.
-- Practicing JavaScript by building small interactive features.
-- Organizing my GitHub repositories with clear names, descriptions, and README files.
-- Learning how to make websites look good on mobile and desktop.
+- Building hands-on SOC projects using Microsoft Sentinel and Microsoft Defender XDR.
+- Practicing KQL queries for threat hunting and incident investigation.
+- Improving Azure security, Entra ID, Intune, and cloud security administration skills.
+- Documenting vulnerability management workflows using Nmap, Nessus, Qualys, and CVE analysis.
+- Strengthening my portfolio with clear cybersecurity project write-ups and practical evidence.
 
 ---
 
 ## Learning Roadmap
 
-```text
-HTML fundamentals        Completed basics
-CSS layouts              Practicing
-Responsive design        In progress
-JavaScript basics        Learning
-DOM interaction          Next target
-Mini projects            Building step by step
-```
+| Skill | Current Focus |
+|---|---|
+| Microsoft Sentinel | Detection rules, incidents, dashboards, and KQL queries |
+| Microsoft Defender XDR | Endpoint investigations, alert timelines, and response workflows |
+| Azure Security | RBAC, Defender for Cloud, monitoring, and secure configuration |
+| Entra ID and Intune | Identity protection, Conditional Access, MFA, and device management |
+| Vulnerability Management | Scanning, validation, prioritization, remediation, and reporting |
+| Threat Hunting | MITRE ATT&CK mapping, suspicious activity analysis, and evidence collection |
+| Incident Response | Playbooks, documentation, containment, root cause analysis, and reporting |
 
 ---
 
@@ -101,56 +109,29 @@ Mini projects            Building step by step
 
 <div align="center">
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SESHI052&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SESHI052&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SESHI052&layout=compact&theme=tokyonight&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=SESHI052&theme=tokyonight&hide_border=true)
 
-## GitHub Stats
-
-<div align="center">
-
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SESHI052&theme=tokyonight" alt="Profile summary" />
-
-  <br />
-  <br />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SESHI052&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SESHI052&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-  <br />
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SESHI052&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=SESHI052&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </div>
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://github.com/SESHI052">
-    <img src="https://img.shields.io/badge/GitHub-SESHI052-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://seshi052.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-seshi052.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+- Portfolio: [seshireddy.in](https://seshireddy.in)
+- LinkedIn: [ANNAPAREDDY SESHI REDDY](https://www.linkedin.com/in/annapareddy-seshi-reddy-269b79266)
+- GitHub: [github.com/SESHI052](https://github.com/SESHI052)
+- Email: [annapareddyseshi052@gmail.com](mailto:annapareddyseshi052@gmail.com)
+
+---
 
 <div align="center">
 
-  **Thanks for visiting my profile. I am learning, building, and improving every day.**
+### Thanks for visiting my profile.
+
+Security Analyst focused on SOC operations, cloud security, threat hunting, vulnerability management, and incident response.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" />
